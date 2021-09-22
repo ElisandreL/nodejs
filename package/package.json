@@ -1,0 +1,13 @@
+{
+  "name": "@user/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "bin": "./build.js",
+  "scripts": {
+    "dev": "nodemon build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elisandre L.",
+  "license": "ISC"
+}
